@@ -1,0 +1,17 @@
+# Wrangler local cache and dev state
+.wrangler/
+.dev.vars
+
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Output / Build
+dist/

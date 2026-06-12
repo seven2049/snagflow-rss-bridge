@@ -1,0 +1,10 @@
+name = "snagflow-rss-bridge"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+# [vars]
+# AUTH_TOKEN = "your-secret-token-here"
+
+[[kv_namespaces]]
+binding = "RSS_CACHE"
+id = "347ed6a67d57448dad05b24e3464a2fb"
